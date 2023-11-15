@@ -5,6 +5,8 @@
 - Any function which calls itself is called recursion.
 - A recursive method solves a problem by calling a copy of itself to work on a smaller problem. Each time a function calls itself with a slightly simpler version of the original problem. This sequence of smaller problems must eventually converge on a base case.
 
+**Note: Solve one case rest is handle by recursion.**
+
 ### Example
 
 #### 2^n
