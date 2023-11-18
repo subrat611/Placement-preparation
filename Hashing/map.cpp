@@ -22,6 +22,7 @@ int main() {
     // 3
     m["a"] = 20;
     // m["s"] = 100; updation because s key present already
+    // cout << m["unknowKey"] << endl; // a new key created if not available and print 0 (because of no value)
 
     
     
