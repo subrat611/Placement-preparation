@@ -14,9 +14,13 @@ I want to find out the frequecy of each number then what I do traverse the entir
 ![image](https://github.com/subrat611/DSA/assets/77252075/a38a1224-114e-4524-853d-e618c0db6cb6)
 
 So if I am traverse the entire array for each item then my time complexity would be. O(n x n).
+
 For 10^8 ~ 1 sec then fro 10^10 ~ 100 sec
+
 How
+
 1 operation -> 1/10^8
+
 10^10 = 1/10^8 x 10^10 (10^10 == 10^2)
 then it 100 sec
 
