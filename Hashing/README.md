@@ -22,6 +22,7 @@ How
 1 operation -> 1/10^8
 
 10^10 = 1/10^8 x 10^10 (10^10 == 10^2)
+
 then it 100 sec
 
 ![image](https://github.com/subrat611/DSA/assets/77252075/16405ffc-94cf-4867-ae9c-17573818e297)
