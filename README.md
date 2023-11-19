@@ -1,6 +1,6 @@
 # 3 Month Interview Preparation Roadmap
 
-## Topics that are asked by different types of companies
+## Topics that are asked by companies
 
 ### Service/Product/Startup
 
@@ -28,3 +28,6 @@
 | Stack and Queues     |
 | Recursion            |
 | Binary Trees and BST |
+
+
+## System Design
