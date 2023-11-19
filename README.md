@@ -33,6 +33,9 @@
 
 ### Prerequisite
 
+- [ ] Database management fundamentals
+- [ ] Operating system fundamentals
+- [ ] Networking fundamentals
 - [ ] Object Oriented Principles
   - [ ] Encapsulation
   - [ ] Abstraction
@@ -41,3 +44,8 @@
 - [ ] S.O.L.I.D principles
 - [ ] Design patterns
 - [ ] Write clean code
+
+> Now move to system design
+
+- [ ] LLD (Fresher SE)
+- [ ] HLD (Senior level SE or experienced SE)
