@@ -29,5 +29,17 @@ then it 100 sec
 
 ## In-built methods in C++
 
-- map -> O(log n)
-- unordered_map -> O(1)
+- map
+  - Storing & fetching -> O(log n) [best, worst, average]
+- unordered_map
+  - Storing & fetching -> O(1) [average, best] O(n) [worst - it occur rare because of collision]
+
+## Hashing methods
+
+- Division method
+- Folding method
+- Mid square method
+
+### Division method
+
+![image](https://github.com/subrat611/DSA/assets/77252075/0504fcf4-1721-4620-b48f-46237f6bc0b5)
