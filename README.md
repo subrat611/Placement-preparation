@@ -29,5 +29,15 @@
 | Recursion            |
 | Binary Trees and BST |
 
-
 ## System Design
+
+### Prerequisite
+
+- [ ] Object Oriented Principles
+  - [ ] Encapsulation
+  - [ ] Abstraction
+  - [ ] Polymorphism
+  - [ ] Inheritance
+- [ ] S.O.L.I.D principles
+- [ ] Design patterns
+- [ ] Write clean code
