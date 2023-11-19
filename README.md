@@ -1,4 +1,4 @@
-# 3 Month Interview Preparation Roadmap
+# Interview Preparation Roadmap
 
 ## Topics that are asked by companies
 
