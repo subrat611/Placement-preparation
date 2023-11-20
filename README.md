@@ -19,7 +19,7 @@
 ### Frontend Roadmap
 
 - Advance JavaScript
-- Basic/intermediate Data Structures and Algorithms
+- Basic/intermediate Data Structures and Algorithms (some asked/some not depends on company)
 - Frontend system design
 - Project (2 major/solid)
 
