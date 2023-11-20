@@ -1,5 +1,11 @@
 # Interview Preparation Roadmap
 
+## Table of contents
+
+- [Data Structures and Algorithms](#topics-that-are-asked-by-companies)
+- [System Design](#system-design)
+- [Frontend Interview](#frontend-interview)
+
 ## Topics that are asked by companies
 
 ### Service/Product/Startup
