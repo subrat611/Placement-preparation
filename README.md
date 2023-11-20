@@ -49,3 +49,22 @@
 
 - [ ] LLD (Fresher SE)
 - [ ] HLD (Senior level SE or experienced SE)
+
+### Resources
+
+## Frontend Interview
+
+<details>
+<summary>Categories - FrontEnd Interview</summary>
+
+- [ ] Coding questions
+  - [ ] Conceptual questions
+  - [ ] JavaScript coding challenge
+- [ ] UI Tech coding
+- [ ] System Design
+
+</details>
+
+- [ ] 30 days of JS [(Leetcode)](https://leetcode.com/studyplan/30-days-of-javascript/)
+
+### Resources
