@@ -1,5 +1,23 @@
 ## Table of content
 
+- [What is Relational Model?](#what-is-relational-model)
+  - [What is Typle?](#what-is-tuple)
+  - [What is Columns?](#what-is-columns)
+  - [What is Relational Schema?](#what-is-relational-schema)
+  - [What is Degree of table?](#what-is-degree-of-table)
+  - [What is Cardinality?](#what-is-cardinality)
+  - [Common Relational Model DBMS](#common-relational-model-dbms)
+- [Properties of a Table or Relational model](#properties-of-a-table-or-relational-model)
+- [Keys in Relational model](#keys-in-relational-model)
+  - [Super key (SK)](#super-key-sk)
+  - [Candidate key (CK)](#candidate-key-ck)
+  - [Primary key (PK)](#primary-key-pk)
+  - [Alternate key (AK)](#alternate-key-ak)
+  - [Foreign key (FK)](#foreign-key-fk)
+  - [Composite key](#composite-key)
+  - [Compound key](#compound-key)
+  - [Surrogate key](#surrogate-key)
+
 ## What is Relational Model?
 
 - The relational model is a database management system framework that organizes data into tables (each of which is assigned a unique name) with rows and columns, using keys to establish relationships between tables.
@@ -142,4 +160,3 @@
 - May be used as Primary key.
 
   ![image](https://github.com/subrat611/Core-Subject-Notes/assets/77252075/f2fdf75f-8015-4d47-a47a-6340cfea83d1)
-
