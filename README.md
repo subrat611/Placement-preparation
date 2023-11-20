@@ -2,9 +2,26 @@
 
 ## Table of contents
 
+- [Roadmap](#roadmap)
 - [Data Structures and Algorithms](#topics-that-are-asked-by-companies)
 - [System Design](#system-design)
 - [Frontend Interview](#frontend-interview)
+
+## Roadmap
+
+### General Roadmap
+
+- Core Fundamentals (OS, DBMS, Networking, OOPs)
+- Data Structures and Algorithms
+- System Design
+- Project
+
+### Frontend Roadmap
+
+- Advance JavaScript
+- Basic/intermediate Data Structures and Algorithms
+- Frontend system design
+- Project (2 major/solid)
 
 ## Topics that are asked by companies
 
