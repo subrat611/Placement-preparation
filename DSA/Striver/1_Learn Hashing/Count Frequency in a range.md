@@ -2,8 +2,6 @@
 
 <code style="color: green">Easy</code> | <code style="color: green">Done</code>
 
-<code style="color : purple">[Problem Link](https://leetcode.com/problems/frequency-of-the-most-frequent-element/description/)</code>
-
 <code style="color : purple">[Problem Link](https://www.codingninjas.com/studio/problems/count-frequency-in-a-range_8365446?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf)</code>
 
 ### Description
