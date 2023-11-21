@@ -1,4 +1,4 @@
-## Table of content
+## Table of content - Relational Model
 
 - [What is Relational Model?](#what-is-relational-model)
   - [What is Typle?](#what-is-tuple)
