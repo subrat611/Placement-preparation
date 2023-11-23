@@ -2,6 +2,8 @@
 
 [Problem Link](https://leetcode.com/problems/allow-one-function-call/description/?envType=study-plan-v2&envId=30-days-of-javascript)
 
+<code style="color: green">Easy</code>
+
 ## Intuition
 
 Given a function `fn` and return a new identical function which ensure that it calls the `fn` at most once.
