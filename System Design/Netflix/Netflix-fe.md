@@ -8,3 +8,6 @@
 
 ![image](https://github.com/subrat611/Placement-preparation/assets/77252075/188dace7-6b74-4322-b071-3f305b0e6728)
 
+![image](https://github.com/subrat611/Placement-preparation/assets/77252075/f22476ed-b4e7-4bba-a7a6-395086ec75ae)
+
+![image](https://github.com/subrat611/Placement-preparation/assets/77252075/1cfe188c-3dda-4ac2-8e3a-e2a5636e4231)
