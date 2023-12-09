@@ -59,11 +59,34 @@
 - [ ] Database management fundamentals
 - [ ] Operating system fundamentals
 - [ ] Networking fundamentals
-- [ ] Object Oriented Principles
-  - [ ] Encapsulation
-  - [ ] Abstraction
-  - [ ] Polymorphism
-  - [ ] Inheritance
+
+---
+
+<details>
+<summary>Object Oriented Principles</summary>
+
+- [ ] Encapsulation
+- [ ] Abstraction
+- [ ] Polymorphism
+- [ ] Inheritance
+
+</details>
+
+<details>
+<summary>Object Oriented Design</summary>
+
+- [ ] OOD
+- [ ] UML
+- [ ] Types of UML
+- [ ] UseCase Diagram
+- [ ] Class Diagram
+- [ ] Sequence Diagram
+- [ ] Activity Diagram
+
+</details>
+
+---
+
 - [ ] S.O.L.I.D principles
 - [ ] Design patterns
 - [ ] Write clean code
