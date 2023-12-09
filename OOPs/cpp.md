@@ -7,6 +7,7 @@
     - [Classes](#classes)
     - [Objects](#objects)
     - [Abstract Classes](#abstract-classes)
+  - [Inheritance](#inheritance)
 
 ## Constructors
 
@@ -43,7 +44,7 @@ class Employee {
 };
 
 int main() {
-    Employee emp1 = new Employee("salu", "pepsi", 45);
+    Employee emp1 = Employee("salu", "pepsi", 45);
     emp1.introduceYourself();
 
     return 0;
@@ -117,7 +118,7 @@ class Employee {
 };
 
 int main() {
-    Employee emp1 = new Employee("salu", "pepsi", 45);
+    Employee emp1 = Employee("salu", "pepsi", 45);
     emp1.introduceYourself();
 
     emp1.setAge(29);
@@ -217,7 +218,7 @@ class Employee:AbstractEmployee {
 };
 
 int main() {
-    Employee emp1 = new Employee("salu", "pepsi", 45);
+    Employee emp1 = Employee("salu", "pepsi", 45);
 
     emp1.askForPromotion();
 
@@ -227,3 +228,94 @@ int main() {
 ```
 
 - Abstraction helps in managing the complexity of large software systems by allowing you to focus on relevant details while hiding unnecessary complexities. It promotes code reusability and modularity, as well as providing a clear separation between the interface and the implementation of a class.
+
+### Inheritance
+
+- Inheritance is a fundamental concept in object-oriented programming (OOP) that allows a class (called the derived or child class) to inherit properties and behaviors from another class (called the base or parent class).
+
+#### Base Class (Parent Class)
+
+- The class whose members (attributes and methods) are inherited is called the base class or parent class.
+- It serves as a template for derived classes.
+
+```cpp
+class Shape {
+public:
+    void draw() {
+        // Implementation of drawing
+    }
+};
+
+```
+
+#### Derived Class (Child Class)
+
+- The class that inherits members from another class is called the derived class or child class.
+- It can have additional members or override existing ones.
+
+```cpp
+class Circle : public Shape {
+public:
+    void draw() {
+        // Implementation of drawing a circle
+    }
+
+    void calculateArea() {
+        // Additional method specific to Circle
+    }
+};
+
+```
+
+#### Access Specifiers
+
+- C++ supports three access specifiers: public, protected, and private.
+- The choice of access specifier determines the visibility of the inherited members in the derived class.
+
+```cpp
+class BaseClass {
+public:
+    int publicVar;
+
+protected:
+    int protectedVar;
+
+private:
+    int privateVar;
+};
+
+class DerivedClass : public BaseClass {
+    // 'publicVar' is public in DerivedClass.
+    // 'protectedVar' is protected in DerivedClass.
+    // 'privateVar' is not accessible in DerivedClass.
+};
+
+```
+
+#### Types of Inheritance
+
+- C++ supports different types of inheritance, including public, protected, and private inheritance, as well as multiple inheritance.
+
+```cpp
+// Public Inheritance
+class DerivedClass : public BaseClass {
+    // Members of BaseClass are inherited with public access
+};
+
+// Protected Inheritance
+class DerivedClass : protected BaseClass {
+    // Members of BaseClass are inherited with protected access
+};
+
+// Private Inheritance
+class DerivedClass : private BaseClass {
+    // Members of BaseClass are inherited with private access
+};
+
+```
+
+#### Benefits of Inheritance
+
+- **Code Reusability:** Inherited members can be reused in the derived class without rewriting their implementation.
+
+- **Polymorphism:** Inheritance supports polymorphism, allowing objects of the derived class to be treated as objects of the base class.
