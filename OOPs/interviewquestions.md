@@ -10,6 +10,14 @@
 - [When is it necessary to use this pointer?](#when-is-it-necessary-to-use-this-pointer)
 - [What is similar between deep copy and shallow copy?](#what-is-similar-between-deep-copy-and-shallow-copy)
 - [What is the difference between deep copy and shallow copy?](#what-is-the-difference-between-deep-copy-and-shallow-copy)
+- [What is Encapsulation in C++? Why is it called Data hiding?](#what-is-encapsulation-in-c-why-is-it-called-data-hiding)
+- [What is the difference between Abstraction and Encapsulation?](#what-is-the-difference-between-abstraction-and-encapsulation)
+- [How much memory does a class occupy?](#how-much-memory-does-a-class-occupy)
+- [Are there any limitations of Inheritance?](#are-there-any-limitations-of-inheritance)
+- [What is the difference between overloading and overriding?](#what-is-the-difference-between-overloading-and-overriding)
+- [What are the various types of inheritance?](#what-are-the-various-types-of-inheritance)
+- [What are the advantages of Polymorphism?](#what-are-the-advantages-of-polymorphism)
+- [What are the differences between Polymorphism and Inheritance in C++?](#what-are-the-differences-between-polymorphism-and-inheritance-in-c)
 
 ### Why do we use OOPs?
 
@@ -89,3 +97,19 @@
 ### What is similar between deep copy and shallow copy?
 
 ### What is the difference between deep copy and shallow copy?
+
+### What is Encapsulation in C++? Why is it called Data hiding?
+
+### What is the difference between Abstraction and Encapsulation?
+
+### How much memory does a class occupy?
+
+### Are there any limitations of Inheritance?
+
+### What is the difference between overloading and overriding?
+
+### What are the various types of inheritance?
+
+### What are the advantages of Polymorphism?
+
+### What are the differences between Polymorphism and Inheritance in C++?
