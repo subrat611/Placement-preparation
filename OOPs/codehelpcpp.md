@@ -13,6 +13,9 @@
   - [Types of Constructors](#types-of-constructors)
 - [Constructor Overloading](#constructor-overloading)
 - [Destructor](#destructor)
+- [Pointer](#pointer)
+  - [Shallow copy](#shallow-copy)
+  - [Deep Copy](#deep-copy)
 
 ## Definition
 
@@ -276,9 +279,29 @@ A destructor function is called automatically when:
 - It has no return type, not even void.
 - When you do not specify any destructor in a class, the compiler generates a default destructor and inserts it into your code.
 
+## Pointer
+
+- `this` pointer holds the address of the current object. (i.e this pointer points to the current object of the class.)
+- It can be used to refer to a current class instance variable.
+- It can be used to pass the current object as a parameter to another method.
+- It can be used to declare indexers.
+
+> When an object calls some member function, it(the object) implicitly passes itself as an argument. This lets the compiler know which member should be used for the purposes. This also allows to reduce the ambiguity among the variable and data member names.
+
+> The ‘this’ pointer is available only within the non-static member functions of a class. If the member function is static, it will be common to all the objects, and hence a single object can’t refer to those functions independently.
+
 ### Shallow copy
 
+- An object is created by simply copying the data of all variables of the original object Here, the pointer will be copied but not the memory it points to. It means that the original object and the created copy will now point to the same memory address, which is generally not preferred.
+- Since both objects will reference the exact memory location, then change made by one will reflect those change in another object as well.
+- Note: C++ compiler implicitly creates a copy constructor and assignment operator to perform shallow copy at compile time.
+
 ### Deep copy
+
+- An object is created by copying all the fields, and it also allocates similar memory resources with the same value to the object.
+- To perform Deep copy, we need to explicitly define the copy constructor and assign dynamic memory as well if required.
+- Also, it is necessary to allocate memory to the other constructors’ variables dynamically.
+- A deep copy means creating a new array and copying over the values. Changes to the array values referred to will not result in changes to the array data refers to.
 
 ## Destructor
 
