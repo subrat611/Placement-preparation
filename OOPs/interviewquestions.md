@@ -6,6 +6,10 @@
 - [The disadvantage of OOPs?](#the-disadvantage-of-oops)
 - [What is the difference between class and structure?](#what-is-the-difference-between-class-and-structure)
 - [What is the difference between a class and an object?](#what-is-the-difference-between-a-class-and-an-object)
+- [What is this pointer?](#what-is-this-pointer)
+- [When is it necessary to use this pointer?](#when-is-it-necessary-to-use-this-pointer)
+- [What is similar between deep copy and shallow copy?](#what-is-similar-between-deep-copy-and-shallow-copy)
+- [What is the difference between deep copy and shallow copy?](#what-is-the-difference-between-deep-copy-and-shallow-copy)
 
 ### Why do we use OOPs?
 
@@ -77,3 +81,11 @@
 ### When should the destructor use delete to free the memory?
 
 ### What is the return type of constructor and destructor?
+
+### What is this pointer?
+
+### When is it necessary to use this pointer?
+
+### What is similar between deep copy and shallow copy?
+
+### What is the difference between deep copy and shallow copy?
