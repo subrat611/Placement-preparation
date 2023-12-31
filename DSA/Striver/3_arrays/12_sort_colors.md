@@ -42,6 +42,12 @@ public:
 };
 ```
 
+## TC & SC
+
+- O(N) + O(N), where N = size of the array.
+  - First O(N) for counting the number of 0’s, 1’s, 2’s, and second O(N) for placing them correctly in the original array
+- O(1)
+
 ## Optimal using DNF Algo
 
 ```cpp
@@ -66,3 +72,8 @@ public:
     }
 };
 ```
+
+## TC & SC
+
+- O(N)
+- O(1)
