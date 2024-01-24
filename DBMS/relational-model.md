@@ -1,4 +1,4 @@
-## Table of content - Relational Model
+## Lecture 7: Relational Model Explained
 
 - [What is Relational Model?](#what-is-relational-model)
   - [What is Typle?](#what-is-tuple)
