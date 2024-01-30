@@ -63,6 +63,9 @@ public:
 Tree Traversal algorithms can be classified broadly into two categories:
 
 - Depth-First Search (DFS) Algorithms
+  - In-order Traversal (left root right)
+  - Pre-order Traversal (root left right)
+  - Post-order Traversal (Left right root)
 - Breadth-First Search (BFS) Algorithms
 
 ## Implementation of Binary Tree
