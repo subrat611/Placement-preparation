@@ -1,0 +1,96 @@
+:root {
+  --btn: #dbdbdb;
+  --item-bg: #f0f0f0;
+  --modal-bg: rgba(141, 141, 141, 0.541);
+}
+
+*,
+::before,
+::after {
+  font-size: 1rem;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  padding: 2rem;
+  width: 1080px;
+  margin: 0 auto;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header > button {
+  padding: 6px 8px;
+  border: 1px solid var(--modal-bg);
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.employees {
+  display: flex;
+  margin-top: 2rem;
+}
+
+.employees > div {
+  height: 50vh;
+  overflow: hidden auto;
+  border: 1px solid var(--modal-bg);
+  position: relative;
+}
+
+.employees__names {
+  width: 40%;
+}
+
+.employees__single {
+  width: 60%;
+}
+
+.employees__names--title,
+.employees__single--title {
+  width: 100%;
+  padding: 10px;
+  background: #cfcfcf;
+  text-align: center;
+  position: sticky;
+  top: 0;
+  left: 0;
+}
+
+.employees__names--item {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  cursor: pointer;
+}
+
+.employees__names--item:hover,
+.selected {
+  background-color: #e4e4e4c4;
+}
+
+.employees__names--item > svg {
+  cursor: pointer;
+  fill: rgb(255, 50, 50);
+}
+
+.employees__single--info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80%;
+}
+
+.employee__single--img {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 10px;
+}
