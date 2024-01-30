@@ -21,7 +21,7 @@
 - Pointer to the left child
 - Pointer to the right child
 
-![image](https://github.com/subrat611/Placement-preparation/assets/77252075/3cdb65af-32df-4c89-bf0f-97d8a4ea3c57)
+![image](https://github.com/subrat611/Placement-preparation/assets/77252075/a52649de-8778-4749-ac5b-735ac3051f40)
 
 ```cpp
 // Use any below method to implement Nodes of tree
